@@ -19,12 +19,12 @@ This research paper explores the development of a machine learning model to pred
 
 To explore or use the NBA game outcome prediction model, follow these steps:
 
-1. Clone the repository:
-2. Open and run the Jupyter Notebooks `model.ipynb`, `scrape.ipynb`, `parse.ipynb`, and `clean.ipynb` in sequential order to understand the model development process.
-3. Use the provided datasets in the `final/` folder for training and testing the model.
+1. Clone the repository: https://github.com/d3moncore/nba-prediction-2023.git
+2. Open and run the Jupyter Notebooks `scrape.ipynb`, `parse.ipynb`, and `model.ipynb` in sequential order to understand the model development process.
+3. Use the provided dataset in the `final/` folder for training and testing the model.
 
 ## References
 
 Please note that this repository is for educational and research purposes only. The predictions made by the model may not always be accurate and should not be used for actual betting or gambling purposes.
 
-For any questions or inquiries, please contact [your-email@example.com](mailto:your-email@example.com).
+For any questions or inquiries, please contact [sabarishpadmakumar19@gmail.com](mailto:sabarishpadmakumar19@gmail.com).
